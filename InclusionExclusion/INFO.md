@@ -4,7 +4,7 @@ Ejemplos
 
 [2022 GPMX 2a Fecha - H](https://codeforces.com/gym/103940/problem/H)
 
-[Solution](HowManyLaughs_GPMX2022.cpp)
+[Solution (Nitter)](HowManyLaughs_GPMX2022.cpp)
 
 Problemas
 

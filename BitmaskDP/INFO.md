@@ -8,6 +8,8 @@ Problemas
 
 [AtCoder DP contest O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o?lang=en)
 
+[Solution (Nitter)](Atcoder_DP_O_Recursivo.cpp)
+
 [AtCoder DP contest U - Grouping](https://atcoder.jp/contests/dp/tasks/dp_u)
 
-[Solution](Grouping.cpp)
+[Solution (Arns)](Grouping.cpp)
