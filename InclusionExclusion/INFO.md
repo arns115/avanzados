@@ -6,6 +6,8 @@ Ejemplos
 
 [Solution (Nitter)](HowManyLaughs_GPMX2022.cpp)
 
+[Solution (Squeleto)](H_HowManyLaughs.cpp)
+
 Problemas
 
 [2024-2025 Brazil Subregional - I](https://codeforces.com/gym/105327/problem/I)
