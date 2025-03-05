@@ -14,3 +14,11 @@ Clases de avanzados CPCFI
 ## 26 de febrero de 2025
 
 [Bitmask DP](BitmaskDP/INFO.md)
+
+## 3 de marzo de 2025
+
+[Suffix Array](SuffixArray/INFO.md)
+
+## 5 de marzo de 2025
+
+[Euler Tour](EulerTour/INFO.md)
