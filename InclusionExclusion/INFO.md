@@ -11,3 +11,5 @@ Ejemplos
 Problemas
 
 [2024-2025 Brazil Subregional - I](https://codeforces.com/gym/105327/problem/I)
+
+[Solution (Squeleto)](I_Ingredients_that_may_Harm_You.cpp)
