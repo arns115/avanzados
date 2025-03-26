@@ -22,3 +22,7 @@ Clases de avanzados CPCFI
 ## 5 de marzo de 2025
 
 [Euler Tour](EulerTour/INFO.md)
+
+## 12 de marzo de 2025
+
+[Flujos](Flujos/INFO.md)
