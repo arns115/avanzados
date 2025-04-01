@@ -26,3 +26,7 @@ Clases de avanzados CPCFI
 ## 12 de marzo de 2025
 
 [Flujos](Flujos/INFO.md)
+
+## 31 de marzo de 2025
+
+[Centroid Decomposition](CentroidDecomp/INFO.md)
