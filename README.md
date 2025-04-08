@@ -16,7 +16,7 @@ Clases de avanzados CPCFI
 
 [Centroid Decomposition](CentroidDecomp/INFO.md)
 
-[2-SAT](Graphs/2SAT/INFO.md)
+[2-SAT](Graphs/2-SAT/INFO.md)
 
 [Flows](Flujos/INFO.md)
 
