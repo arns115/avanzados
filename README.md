@@ -12,6 +12,8 @@ Clases de avanzados CPCFI
 
 [Euler Tour](EulerTour/INFO.md)
 
+[Strongly Connected Components](Graphs/SCC/INFO.md)
+
 [Centroid Decomposition](CentroidDecomp/INFO.md)
 
 [Flows](Flujos/INFO.md)
