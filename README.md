@@ -8,6 +8,12 @@ Clases de avanzados CPCFI
 
 ## Data Structures
 
+[Segment Tree]
+
+[HLD]Proximamente
+
+[Interval Tree]
+
 ## Graph Theory
 
 [Euler Tour](EulerTour/INFO.md)
@@ -27,6 +33,9 @@ Clases de avanzados CPCFI
 
 ## Math
 
+[Biyecciones]
+
+
 ## Strings
 
 [Suffix Array](SuffixArray/INFO.md)
@@ -39,12 +48,12 @@ Clases de avanzados CPCFI
 
 ## Miscellaneous
 
+[Paralel Binary Search]
 
 
 
 
-
-## G.O,A,T
+## G.O.A.T
 [![Contributors](https://contrib.rocks/image?repo=arns115/avanzados)](https://github.com/arns115/avanzados/graphs/contributors)
 
 
