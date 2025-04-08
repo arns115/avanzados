@@ -8,7 +8,7 @@ Clases de avanzados CPCFI
 
 ## Data Structures
 
-[Segment Tree]
+[Segment Tree](DataStructures/SegmentTree/INFO.md)
 
 [HLD]Proximamente
 
