@@ -1,32 +1,46 @@
-# avanzados
+# Avanzados
 Clases de avanzados CPCFI
 
+![Topics - 20](https://img.shields.io/badge/Topics-20-2ea44f)
+[![Build Status](https://img.shields.io/github/stars/arns115/avanzados.svg)](https://github.com/arns115/avanzados)
+[![Build Status](https://img.shields.io/github/forks/arns115/avanzados.svg)](https://github.com/arns115/avanzados)
+[![Contributors](https://img.shields.io/github/contributors/arns115/avanzados?style=flat-square)](https://github.com/arns115/avanzados/graphs/contributors)
 
-## 19 de febrero de 2025
+## Data Structures
 
-[Bitmask DP](BitmaskDP/INFO.md)
-
-
-## 24 de febrero de 2025
-
-[Inclusion Exclusion](InclusionExclusion/INFO.md)
-
-## 26 de febrero de 2025
-
-[Bitmask DP](BitmaskDP/INFO.md)
-
-## 3 de marzo de 2025
-
-[Suffix Array](SuffixArray/INFO.md)
-
-## 5 de marzo de 2025
+## Graph Theory
 
 [Euler Tour](EulerTour/INFO.md)
 
-## 12 de marzo de 2025
-
-[Flujos](Flujos/INFO.md)
-
-## 31 de marzo de 2025
-
 [Centroid Decomposition](CentroidDecomp/INFO.md)
+
+[Flows](Flujos/INFO.md)
+
+## Combinatorics
+
+[Inclusion Exclusion](InclusionExclusion/INFO.md)
+
+
+## Math
+
+## Strings
+
+[Suffix Array](SuffixArray/INFO.md)
+
+## DP
+
+[Bitmask DP](BitmaskDP/INFO.md)
+
+## Geometry
+
+## Miscellaneous
+
+
+
+
+
+
+## Awesomeness
+[![Contributors](https://contrib.rocks/image?repo=arns115/avanzados)](https://github.com/arns115/avanzados/graphs/contributors)
+
+
