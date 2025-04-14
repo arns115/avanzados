@@ -11,3 +11,6 @@ Problemas
 
 Implementación
 - [Bricks (Codeforces)](bricks.cpp)
+- [Download Speed (CSES)](DownloadSpeed.cpp)
+- [Police Chase (CSES)](PoliceChase.cpp)
+- [School Dance (CSES)](SchoolDance.cpp)
