@@ -33,7 +33,7 @@ Clases de avanzados CPCFI
 
 ## Math
 
-[Biyecciones]
+[Biyecciones](Math/FFT/README.md)
 
 
 ## Strings
