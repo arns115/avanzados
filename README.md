@@ -35,7 +35,7 @@ Clases de avanzados CPCFI
 
 [FFT](Math/FFT/README.md)
 
-[Matrix Exponentiation](Math/Matrix\0Exponentiation/INFO.md)
+[Matrix Exponentiation](Math/Matrix Exponentiation/INFO.md)
 
 ## Strings
 
