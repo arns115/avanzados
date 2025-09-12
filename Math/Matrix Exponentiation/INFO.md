@@ -14,3 +14,5 @@
 [GYM - Bacterial Sampling](https://codeforces.com/gym/105164/problem/B)
 
 [GYM -Long Grid Covering](https://codeforces.com/group/Tr1LSo0lNa/contest/630893/problem/A)
+
+[GYM - Gray's numerical sequence](https://codeforces.com/gym/106035/problem/K)
