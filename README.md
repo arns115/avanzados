@@ -10,6 +10,8 @@ Clases de avanzados CPCFI
 
 [Segment Tree](DataStructures/SegmentTree/INFO.md)
 
+[Lazy Segment Tree](https://github.com/arns115/avanzados/blob/main/DataStructures/Lazy/README.md)
+
 [HLD]Proximamente
 
 [Interval Tree]
