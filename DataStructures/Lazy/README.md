@@ -2,6 +2,8 @@
 
 ## Material
 
+[Implementacion Nitter](./LazySexTree.cpp)
+
 ## Ejemplos
 
 ## Problemas
