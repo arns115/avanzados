@@ -3,7 +3,8 @@
 ## Recursos
 
 [Explicacion y problemas](https://threadsiiithyderabad.quora.com/Tutorial-on-Trie-and-example-problems)
-[Implementacion (Nitter)]
+
+[Implementacion (Nitter)](./Trie.cpp)
 
 ## Ejemplo 
 
