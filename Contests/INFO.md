@@ -15,3 +15,7 @@
 [Solutions :) - A B C E G H I J L N](TAP2025cara_feliz)
 
 [ICPC Central Russia Regional Contest, 2024](https://codeforces.com/group/EWiQAOHvVn/contest/634791)
+
+ICPC Mexico 2025 Regional Contest
+
+[Solutions :) - A B E F H J K](FinalMexico2025cara_feliz)
