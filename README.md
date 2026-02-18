@@ -49,6 +49,8 @@ Clases de avanzados CPCFI
 
 [Bitmask DP](BitmaskDP/INFO.md)
 
+[Knuth Optimization](DP/Knuth/INFO.md)
+
 ## Geometry
 
 ## Miscellaneous
